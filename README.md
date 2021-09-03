@@ -23,3 +23,11 @@ $ curl -fsSL https://apt.0xe.me/rust-tools.list | sudo tee /etc/apt/sources.list
 $ sudo apt update
 $ apt show ripgrep
 ```
+
+### Browsing the apt repo
+
+If you want to find the `Release` or `*.deb` files yourself, they are available here:
+
+[pool](https://apt.0xe.me/pool)
+
+[dists](https://apt.0xe.me/dists)
