@@ -1,6 +1,6 @@
 # Rust Tools apt repo
 
-This is a simple apt repo hosting popular Rust tools which you can access at [apt.0xe.me](https://apt.cli.rs).
+This is a simple apt repo hosting popular Rust tools which you can access at [apt.cli.rs](https://apt.cli.rs).
 
 The plan is to update the repo when these tools make new releases, so you automatically get the latest and greatest (and don't have to manually install `.deb` files).
 
