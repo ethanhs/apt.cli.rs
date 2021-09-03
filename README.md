@@ -1,13 +1,13 @@
 # Rust Tools apt repo
 
-This is a simple apt repo hosting popular Rust tools which you can access at [apt.0xe.me](https://apt.0xe.me).
+This is a simple apt repo hosting popular Rust tools which you can access at [apt.0xe.me](https://apt.cli.rs).
 
 The plan is to update the repo when these tools make new releases, so you automatically get the latest and greatest (and don't have to manually install `.deb` files).
 
 
 ### Current packages available
 
-Currently the list is somewhat small, but suggestions are welcome! Feel free to file an issue at https://github.com/ethanhs/apt.0xe.me
+Currently the list is somewhat small, but suggestions are welcome! Feel free to file an issue at https://github.com/ethanhs/apt.cli.rs
 
 - [bat](https://github.com/sharkdp/bat)
 - [fd](https://github.com/sharkdp/fd)
@@ -18,8 +18,8 @@ Currently the list is somewhat small, but suggestions are welcome! Feel free to 
 ### How to add the repo
 
 ```
-$ curl -fsSL https://apt.0xe.me/pubkey.asc | sudo apt-key add -
-$ curl -fsSL https://apt.0xe.me/rust-tools.list | sudo tee /etc/apt/sources.list.d/rust-tools.list
+$ curl -fsSL https://apt.cli.rs/pubkey.asc | sudo apt-key add -
+$ curl -fsSL https://apt.cli.rs/rust-tools.list | sudo tee /etc/apt/sources.list.d/rust-tools.list
 $ sudo apt update
 $ apt show ripgrep
 ```
@@ -28,6 +28,6 @@ $ apt show ripgrep
 
 If you want to find the `Release` or `*.deb` files yourself, they are available here:
 
-[pool](https://apt.0xe.me/pool)
+[pool](https://apt.cli.rs/pool)
 
-[dists](https://apt.0xe.me/dists)
+[dists](https://apt.cli.rs/dists)
