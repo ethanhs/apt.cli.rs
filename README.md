@@ -12,6 +12,7 @@ Currently the list is somewhat small, but suggestions are welcome! Feel free to 
 - [bat](https://github.com/sharkdp/bat)
 - [fd](https://github.com/sharkdp/fd)
 - [hexyl](https://github.com/sharkdp/hexyl)
+- [hyperfine](https://github.com/sharkdp/hyperfine)
 - [lsd](https://github.com/Peltoche/lsd)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
 
