@@ -10,6 +10,7 @@ The plan is to update the repo when these tools make new releases, so you automa
 Currently the list is somewhat small, but suggestions are welcome! Feel free to file an issue at https://github.com/ethanhs/apt.cli.rs
 
 - [bat](https://github.com/sharkdp/bat)
+- [delta](https://github.com/dandavison/delta)
 - [fd](https://github.com/sharkdp/fd)
 - [hexyl](https://github.com/sharkdp/hexyl)
 - [hyperfine](https://github.com/sharkdp/hyperfine)
