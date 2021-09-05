@@ -16,6 +16,7 @@ Currently the list is somewhat small, but suggestions are welcome! Feel free to 
 - [hyperfine](https://github.com/sharkdp/hyperfine)
 - [lsd](https://github.com/Peltoche/lsd)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
+- [watchexec](https://github.com/watchexec/watchexec)
 
 ### How to add the repo
 
