@@ -12,6 +12,7 @@ Currently the list is somewhat small, but suggestions are welcome! Feel free to 
 - [bat](https://github.com/sharkdp/bat)
 - [delta](https://github.com/dandavison/delta)
 - [fd](https://github.com/sharkdp/fd)
+- [fselect](https://github.com/jhspetersson/fselect)
 - [hexyl](https://github.com/sharkdp/hexyl)
 - [hyperfine](https://github.com/sharkdp/hyperfine)
 - [lsd](https://github.com/Peltoche/lsd)
