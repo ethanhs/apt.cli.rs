@@ -18,6 +18,7 @@ Currently the list is somewhat small, but suggestions are welcome! Feel free to 
 - [lsd](https://github.com/Peltoche/lsd)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
 - [watchexec](https://github.com/watchexec/watchexec)
+- [xh](https://github.com/ducaale/xh)
 
 ### How to add the repo
 
