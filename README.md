@@ -33,6 +33,6 @@ $ apt show ripgrep
 
 If you want to find the `Release` or `*.deb` files yourself, they are available here:
 
-[pool](https://apt.cli.rs/pool)
+[pool](https://apt.cli.rs/pool/)
 
-[dists](https://apt.cli.rs/dists)
+[dists](https://apt.cli.rs/dists/)
