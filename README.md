@@ -16,6 +16,7 @@ Currently the list is somewhat small, but suggestions are welcome! Feel free to 
 - [hexyl](https://github.com/sharkdp/hexyl)
 - [hyperfine](https://github.com/sharkdp/hyperfine)
 - [lsd](https://github.com/Peltoche/lsd)
+- [numbat](https://github.com/sharkdp/numbat)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
 - [watchexec](https://github.com/watchexec/watchexec)
 - [xh](https://github.com/ducaale/xh)
