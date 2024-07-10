@@ -11,15 +11,18 @@ Currently the list is somewhat small, but suggestions are welcome! Feel free to 
 
 - [bat](https://github.com/sharkdp/bat)
 - [delta](https://github.com/dandavison/delta)
+- [dust](https://github.com/bootandy/dust)
 - [fd](https://github.com/sharkdp/fd)
 - [fselect](https://github.com/jhspetersson/fselect)
 - [hexyl](https://github.com/sharkdp/hexyl)
 - [hyperfine](https://github.com/sharkdp/hyperfine)
 - [lsd](https://github.com/Peltoche/lsd)
 - [numbat](https://github.com/sharkdp/numbat)
+- [pastel](https://github.com/sharkdp/pastel)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
 - [watchexec](https://github.com/watchexec/watchexec)
 - [xh](https://github.com/ducaale/xh)
+- [zoxide](https://github.com/ajeetdsouza/zoxide)
 
 ### How to add the repo
 
