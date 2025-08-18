@@ -1,5 +1,11 @@
 # Rust Tools apt repo
 
+## ! Repository sun-setting !
+
+This repository is being sun-set. It will run until 2025-11-17 at which point it will be brought offline. Thank you for using apt.cli.rs. For more details, please see https://github.com/emmatyping/apt.cli.rs/issues/32
+
+-----
+
 This is a simple apt repo hosting popular Rust tools which you can access at [apt.cli.rs](https://apt.cli.rs).
 
 The plan is to update the repo when these tools make new releases, so you automatically get the latest and greatest (and don't have to manually install `.deb` files).
